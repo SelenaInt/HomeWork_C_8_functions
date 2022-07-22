@@ -1,0 +1,15 @@
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/bin/Debug/net6.0/HW_task54
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/bin/Debug/net6.0/HW_task54.deps.json
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/bin/Debug/net6.0/HW_task54.runtimeconfig.json
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/bin/Debug/net6.0/HW_task54.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/bin/Debug/net6.0/HW_task54.pdb
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/obj/Debug/net6.0/HW_task54.csproj.AssemblyReference.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/obj/Debug/net6.0/HW_task54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/obj/Debug/net6.0/HW_task54.AssemblyInfoInputs.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/obj/Debug/net6.0/HW_task54.AssemblyInfo.cs
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/obj/Debug/net6.0/HW_task54.csproj.CoreCompileInputs.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/obj/Debug/net6.0/HW_task54.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/obj/Debug/net6.0/refint/HW_task54.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/obj/Debug/net6.0/HW_task54.pdb
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/obj/Debug/net6.0/HW_task54.genruntimeconfig.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_7/HW_task54/obj/Debug/net6.0/ref/HW_task54.dll
